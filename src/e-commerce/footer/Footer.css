@@ -1,0 +1,10 @@
+.footer {
+    height: 200px;
+    border: 2px solid rebeccapurple;
+    border-radius: 10px;
+    text-align: center;
+    padding: 50px 20px;
+    color: azure;
+    margin: 20px auto;
+    text-align: center;
+}
